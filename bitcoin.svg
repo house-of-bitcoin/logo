@@ -5,7 +5,7 @@
   width="100%" height="100%" 
   viewBox="0 0 4091.27 4091.73" 
   version="1.1">
-  <!-- Bitcoin Logo, House of Bitcoin 2025 - CX -->
+  <!-- House of Bitcoin 2026 - CX -->
   <defs>
     <path id="star" d="M0,-1800 L45,-1700 L150,-1700 L60,-1630 L90,-1530 L0,-1600 L-90,-1530 L-60,-1630 L-150,-1700 L-45,-1700 Z"/>
   </defs>
@@ -16,40 +16,38 @@
       to { transform: rotate(360deg); }
     }
     .rotating {
-      animation: rotate 10s linear infinite;
+      animation: rotate 20s linear infinite;
       transform-origin: 2045.63px 2045.87px;
     }
   </style>
 
-  <g id="Layer_x0020_1">
+  <g id="HoB">
     <circle cx="2045.63" cy="2045.87" r="2000" fill="#F7931A"/>
         
     <g class="rotating" fill="white">
       <g transform="translate(2045.63, 2045.87)">
+        <!-- 21 stars to represent 21 Million BTC -->
         <use xlink:href="#star" transform="rotate(0)"/>
-        <use xlink:href="#star" transform="rotate(15)"/>
-        <use xlink:href="#star" transform="rotate(30)"/>
-        <use xlink:href="#star" transform="rotate(45)"/>
-        <use xlink:href="#star" transform="rotate(60)"/>
-        <use xlink:href="#star" transform="rotate(75)"/>
-        <use xlink:href="#star" transform="rotate(90)"/>
-        <use xlink:href="#star" transform="rotate(105)"/>
-        <use xlink:href="#star" transform="rotate(120)"/>
-        <use xlink:href="#star" transform="rotate(135)"/>
-        <use xlink:href="#star" transform="rotate(150)"/>
-        <use xlink:href="#star" transform="rotate(165)"/>
-        <use xlink:href="#star" transform="rotate(180)"/>
-        <use xlink:href="#star" transform="rotate(195)"/>
-        <use xlink:href="#star" transform="rotate(210)"/>
-        <use xlink:href="#star" transform="rotate(225)"/>
-        <use xlink:href="#star" transform="rotate(240)"/>
-        <use xlink:href="#star" transform="rotate(255)"/>
-        <use xlink:href="#star" transform="rotate(270)"/>
-        <use xlink:href="#star" transform="rotate(285)"/>
-        <use xlink:href="#star" transform="rotate(300)"/>
-        <use xlink:href="#star" transform="rotate(315)"/>
-        <use xlink:href="#star" transform="rotate(330)"/>
-        <use xlink:href="#star" transform="rotate(345)"/>
+        <use xlink:href="#star" transform="rotate(17.14)"/>
+        <use xlink:href="#star" transform="rotate(34.28)"/>
+        <use xlink:href="#star" transform="rotate(51.42)"/>
+        <use xlink:href="#star" transform="rotate(68.56)"/>
+        <use xlink:href="#star" transform="rotate(85.70)"/>
+        <use xlink:href="#star" transform="rotate(102.84)"/>
+        <use xlink:href="#star" transform="rotate(119.98)"/>
+        <use xlink:href="#star" transform="rotate(137.12)"/>
+        <use xlink:href="#star" transform="rotate(154.26)"/>
+        <use xlink:href="#star" transform="rotate(171.40)"/>
+        <use xlink:href="#star" transform="rotate(188.54)"/>
+        <use xlink:href="#star" transform="rotate(205.68)"/>
+        <use xlink:href="#star" transform="rotate(222.82)"/>
+        <use xlink:href="#star" transform="rotate(239.96)"/>
+        <use xlink:href="#star" transform="rotate(257.10)"/>
+        <use xlink:href="#star" transform="rotate(274.24)"/>
+        <use xlink:href="#star" transform="rotate(291.38)"/>
+        <use xlink:href="#star" transform="rotate(308.52)"/>
+        <use xlink:href="#star" transform="rotate(325.66)"/>
+        <use xlink:href="#star" transform="rotate(342.80)"/>
       </g>
     </g>
 
